@@ -1,0 +1,2 @@
+    @JsonField("${REMOTE_FIELD_NAME}")
+    private ${FIELD_TYPE} ${FIELD_NAME};
